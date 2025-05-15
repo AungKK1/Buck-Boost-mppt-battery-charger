@@ -51,10 +51,10 @@ To develop a power-efficient, flexible battery charger with MPPT capabilities fo
 
 ## 📎 Files
 
-- [`/docs`](./docs): Schematic, PCB layout images
-- [`/gerbers`](./gerbers): Fabrication files for PCB manufacturing
-- [`/odb++`](./odb++): Optional manufacturing format
-- [`/bom`](./bom): Bill of materials with key parts and specs
+- [`/Documents`](./Documents): Schematic, PCB layout images
+- [`/Gerber`](./Gerber): Fabrication files for PCB manufacturing
+- [`/ODB++`](./ODB++): Optional manufacturing format
+- [`/BOM`](./BOM): Bill of materials with key parts and specs
 
 ---
 
